@@ -2,6 +2,7 @@
 pragma solidity 0.8.6;
 
 import './../interfaces/IJBPayDelegate.sol';
+import './../interfaces/IJBRedemptionDelegate.sol';
 import './../structs/JBPayParamsData.sol';
 import './../structs/JBRedeemParamsData.sol';
 
